@@ -1,1 +1,1 @@
-# handwritten-math-equation-recognition
+Built and trained convolutional neural networks capable of recognizing offline handwritten mathematical equations from images, achieving an accuracy of over 97%. Conducted a comparative analysis of different architectures based on their performance, recognition speed, accuracy, and training time to determine the most effective model. 
